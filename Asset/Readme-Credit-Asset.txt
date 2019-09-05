@@ -12,3 +12,5 @@ INTRO
 https://freesound.org/people/aditya6997/sounds/352315/
 FONT
 https://www.dafont.com/es/anti-digital.font
+GENERIC ITEM
+https://www.kenney.nl/assets/generic-items
